@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front end web development
 - 🌱 I’m currently learning HTML,CSS
 - 💞️ I’m looking to collaborate on web development
+- 👀 I'm interested in Data Science
 - 📫 How to reach me ...
 
 <!---
